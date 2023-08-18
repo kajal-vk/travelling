@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    background-color: black;
+    color:azure
+}
+.name{
+    display: flex;
+    align-items: center;
+
+}
